@@ -1,0 +1,4 @@
+
+# GDB
+gdb . /exes
+> r 2 ./../../../ETTP-Benchmarks/Toronto/all_file ./Run1/ 
